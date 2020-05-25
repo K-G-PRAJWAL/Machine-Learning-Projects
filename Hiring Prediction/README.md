@@ -1,6 +1,6 @@
 # Hiring Prediction based on Decision Trees
 
-Read the complete article about this project on [Medium]('https://towardsdatascience.com/decision-trees-in-machine-learning-d974efc37779?source=your_stories_page---------------------------').
+Read the complete article about this project on [Medium](https://towardsdatascience.com/decision-trees-in-machine-learning-d974efc37779?source=your_stories_page---------------------------).
 
 ---
 
